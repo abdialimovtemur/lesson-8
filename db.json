@@ -1,0 +1,69 @@
+{
+  "user": [
+    {
+      "name": "user 1",
+      "id": 1
+    },
+    {
+      "name": "user 1",
+      "id": 2
+    },
+    {
+      "name": "user 1",
+      "id": 3
+    },
+    {
+      "name": "user 1",
+      "id": 4
+    }
+  ],
+  "todos": [
+    {
+      "title": "iiiiiiiiiii",
+      "description": "iiiiiiiiiiiiii",
+      "id": 77
+    },
+    {
+      "title": "99999999999999",
+      "description": "9999999999999",
+      "id": 78
+    },
+    {
+      "title": "awdawd",
+      "description": "awdawdawd",
+      "id": 81
+    },
+    {
+      "title": "Temurbek Abdialimov",
+      "description": "",
+      "id": 85
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "title": "lorem",
+      "url": "https://frankfurt.apollo.olxcdn.com/v1/files/vihwlml6us2a2-UZ/image;s=1296x1254"
+    },
+    {
+      "title": "awdawd",
+      "url": "https://img.freepik.com/free-vector/minimal-geometric-stripe-shape-background_1409-1014.jpg",
+      "id": 3
+    },
+    {
+      "title": "awjfknawf",
+      "url": "https://www.spottedbylocals.com/tashkent/files/rayhon-milliy-taomlar-tashkent-by-khurshid-daliev.jpg",
+      "id": 4
+    },
+    {
+      "title": "tuehejfaf",
+      "url": "https://img.bisyor.uz/web/uploads/items/cd501c44eae0c28z.jpg",
+      "id": 5
+    },
+    {
+      "title": "ajebgpaief",
+      "url": "https://www.foodologygeek.com/wp-content/uploads/2022/08/grilled-beef-shish-kabobs-recipe.jpg",
+      "id": 6
+    }
+  ]
+}
